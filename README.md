@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourav96S
 - 👀 I’m interested in Data Sience and Machine Learning
-- 🌱 I’m currently Python,SQL, and the theritical part of machine learning
+- 🌱 I’m currently learning Python,SQL, and the theritical part of machine learning
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 souravsenapati921@gmail.com
 
